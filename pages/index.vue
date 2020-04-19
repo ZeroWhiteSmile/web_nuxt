@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import logo from '@/components/logo'
+import logo from '@/components/Logo'
 export default {
   components: {
     logo
