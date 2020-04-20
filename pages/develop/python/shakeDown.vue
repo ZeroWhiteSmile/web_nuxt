@@ -1,5 +1,5 @@
 <template>
-  <div>1231111111111111111111</div>
+  <div>发版测试</div>
 </template>
 <script>
 export default {
